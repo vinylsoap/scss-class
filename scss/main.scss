@@ -1,8 +1,11 @@
+$coloryellow: #ffff00;
+$colorred: #ff0000;
+
 .container {
-    background-color: aqua;
+    background-color: $coloryellow;
 }
 
 p {
-    color: red;
+    color: $colorred;
     text-align: center;
 }

@@ -1,8 +1,8 @@
 .container {
-  background-color: aqua;
+  background-color: #ffff00;
 }
 
 p {
-  color: red;
+  color: #ff0000;
   text-align: center;
 }
